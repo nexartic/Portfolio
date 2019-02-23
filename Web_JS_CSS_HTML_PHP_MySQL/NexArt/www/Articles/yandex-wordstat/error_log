@@ -1,0 +1,47 @@
+[20-Nov-2018 22:18:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[20-Nov-2018 22:18:16 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[20-Nov-2018 22:18:16 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[20-Nov-2018 22:18:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[20-Nov-2018 22:18:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[20-Nov-2018 22:18:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/dndmsjjy/public_html/PHP/GetReview.php on line 10
+[20-Nov-2018 22:25:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[20-Nov-2018 22:25:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[20-Nov-2018 22:25:17 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[20-Nov-2018 22:25:17 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[20-Nov-2018 22:25:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[20-Nov-2018 22:25:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/dndmsjjy/public_html/PHP/GetReview.php on line 10
+[20-Nov-2018 22:25:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[20-Nov-2018 22:25:48 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[20-Nov-2018 22:25:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[20-Nov-2018 22:25:48 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[20-Nov-2018 22:25:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[20-Nov-2018 22:25:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/dndmsjjy/public_html/PHP/GetReview.php on line 10
+[21-Nov-2018 14:13:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[21-Nov-2018 14:13:24 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[21-Nov-2018 14:13:24 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[21-Nov-2018 14:13:24 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[21-Nov-2018 14:13:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[21-Nov-2018 14:13:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/dndmsjjy/public_html/PHP/GetReview.php on line 10
+[21-Nov-2018 15:47:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[21-Nov-2018 15:47:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[21-Nov-2018 15:47:07 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[21-Nov-2018 15:47:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[21-Nov-2018 15:47:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dndmsjjy/public_html/PHP/GetReview.php on line 7
+[21-Nov-2018 15:47:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/dndmsjjy/public_html/PHP/GetReview.php on line 10
+[23-Nov-2018 23:04:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[24-Nov-2018 01:38:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[24-Nov-2018 10:29:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[24-Nov-2018 19:39:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 09:08:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 09:14:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 09:35:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 09:36:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 09:36:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 09:36:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 09:36:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 15:08:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 15:09:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 15:24:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 15:35:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[25-Nov-2018 16:33:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4
+[27-Nov-2018 10:26:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dndmsjjy/public_html/PHP/GetReview.php on line 4

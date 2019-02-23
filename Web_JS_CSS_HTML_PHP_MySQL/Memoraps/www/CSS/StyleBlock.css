@@ -1,0 +1,276 @@
+#centerPanel #bottom div .bottom{
+	width: 100%;
+	height: 20%;
+	background-color: #FF891B;
+	margin: 0;
+	border-bottom-left-radius: 0.5em;
+	border-bottom-right-radius: 0.5em;
+}
+#centerPanel #bottom .bottom div {
+	float: left;
+	width: 25%;
+	height: 420%;
+	text-align: center;
+	color: #555555;
+}
+#centerPanel #bottom .bottom div i[role="listbox"]{
+	width: auto;
+	height: auto;
+	color: white;
+	font-size: 0.9em;
+	position: relative;
+	z-index: 1;
+	margin-top: 15%;
+}
+#centerPanel #bottom .bottom div ul{
+	width: 100%;
+	height: 76%;
+	position: relative;
+	transform: rotate(180deg);
+	z-index: 0;
+}
+#centerPanel #bottom .bottom div ul div[role='list']{
+	display: block;
+	width: 100%;
+	height: 25%;
+	transform: rotate(180deg);
+}
+#centerPanel #bottom .bottom div ul div[role='list'] i{
+	display: block;
+	float: left;
+	height: 100%;
+	width: 100%;
+	color: #FF7B00;
+	font-size: 0.9em;
+}
+#centerPanel #bottom .bottom div ul .image[role='list']{
+	position: relative;
+	width: 300%;
+	right: 205%;
+}
+
+#centerPanel #bottom .bottom div ul .image[role='list'] i{
+	display: block;
+	float: left;
+	height: 100%;
+	width: 30%;
+}
+#centerPanel #bottom .bottom div ul .image[role='list'] i[data-s='extra']{
+	display: none;
+	opacity: 0;
+}
+
+#centerPanel #bottom .bottom .create{	
+	transform: translate(0,-76%);
+}
+#centerPanel #bottom .bottom .cross i[role="listbox"]{
+	margin-top: 12%;
+}
+
+.newTextarea{
+	display:block;
+	float:left;
+	height:75%;
+	width:92%;
+	resize:none;
+	padding:0 2% 0% 2%;
+	border:0;
+	font-size:0.4em;
+	outline:none;
+	margin:0 2% 0 2%;
+	letter-spacing:0.1em;
+	color:#454545;
+}
+#centerPanel #bottom .bottom .share ul{
+	width: 100%;
+	height: 76%;
+	position: relative;
+	transform: translate(0,-69%);
+}
+/*----------------------------------------------------------------*/
+#centerPanel #bottom .bottom .share ul .fa-share-square-o,#centerPanel #bottom .bottom .share #listFolders{
+	display: block;
+	float: left;
+	width: 100%;
+	margin: 0;
+}
+
+#centerPanel #bottom .bottom .share #listFolders{
+	height: 70%;
+}
+
+#centerPanel #bottom .bottom .share ul .fa-share-square-o{
+	height: 25%;
+	padding: 15% 0 0 0;
+}
+
+#centerPanel #bottom .bottom .share #listFolders div{
+	position: relative;
+	height: calc(99% - 0.1em);
+	width: 250%;
+	transform: translate(-10%,0);
+	border-left: 0.1em solid #FF7D00;
+	border-top: 0.1em solid #FF7D00;
+	border-right: 0.1em solid #FF7D00;
+	border-top-right-radius: 0.2em;
+	border-top-left-radius: 0.2em;
+	background-color: white;
+}
+#centerPanel #bottom .bottom .share #listFolders div .page{
+	margin: 2% 0 0 10%;
+	width: 95%;
+	height: 95%;
+	border: none;
+	overflow-y: auto;
+	overflow-x: hidden;
+	position: relative;
+}
+
+#centerPanel #bottom .bottom .share #listFolders div .page span{
+	
+	display: block;
+	width: 98%;
+	height: 22%;
+	color:#535353;
+	font-size: 0.35em;
+	padding: 8% 1% 0 1%;
+}
+#centerPanel #bottom .bottom .share #listFolders div .page span:hover{
+	background-color: #FF7D00;
+	border-radius: 0.5em;
+	cursor: pointer;
+}
+#centerPanel #bottom .bottom .share #listFolders div .page .hint:hover{
+	background-color: transparent;
+}
+
+#centerPanel #bottom .bottom .share #listFolders div::-webkit-scrollbar {
+	width: 6%;
+	background-color: #FFC083;
+	border-radius: 1em;
+}
+
+#centerPanel #bottom .bottom .share #listFolders div::-webkit-scrollbar-thumb{
+	background-color: #FF7D00;
+	border-radius: 1em;
+}
+
+.newImage{
+	float: left;
+	width: 100%;
+	height: 82%;
+}
+
+.newImage .windowImage,.newImage .reference{
+	float: left;
+	width: 100%;
+}
+
+.newImage .windowImage{
+	height: calc( 90% - 0.02em );
+	border-bottom:  0.01em solid #FF7D00;
+	border-top:  0.01em solid #FF7D00;
+}
+.newImage .windowImage img{
+	width: 100%;
+	height: auto;
+	opacity: 0;
+}
+
+.newImage .reference{
+	height: 10%;
+}
+
+.newImage .reference input{
+	display: block;
+	float: left;
+	height: 100%;
+	width: calc(60% - 0.02em);
+	border-right: 0.01em solid #FF7D00;
+	border-left: 0.01em solid #FF7D00;
+    border-top: none;
+	border-bottom: none;
+	outline: none;
+	background: white;
+	font-size: 0.3em;
+	padding: 0 2% 0 2%;
+}
+
+.newImage .reference div{
+	float:left;
+	width:10%;
+	height:auto;
+	margin:0 0 0 1%;
+	padding:0;
+	font-size: 0.75em;
+}
+
+.newImage .reference .imgFromFile{
+	position: relative;
+	display: block;
+	float: left;
+	height: 100%;
+	width: 65%;
+	border-right: 0.01em solid #FF7D00;
+	border-left: none;
+    border-top: none;
+	border-bottom: none;
+	outline: none;
+	background-color: white;
+	font-size: 0.3em;
+	padding: 0 2% 0 2%;
+	margin: 0;
+	z-index: 1;
+}
+
+.newImage .reference input[type='file']{
+	display: none;
+}
+
+.newImage .reference .img-upload{
+	float: left;
+	height: 85%;
+	width: 28%;
+	padding: 0;
+	margin: 0;
+}
+.newImage .reference label{
+	display: block;
+	width: 95%;
+	height: 100%;
+	background-color: #FF7D00;
+	border-radius: 0.1em;
+	margin-left: 5%;
+	padding: 0;
+	cursor: pointer;
+}
+.newImage .reference label:hover{
+	background-color: #FF4700;
+}
+.newImage .reference label span{
+	display: block;
+	width: 98%;
+	height: 45%;
+	font-size: 9px;
+	letter-spacing: 1px;
+	margin: 2% 0 0 0%;
+	padding: 3% 0 0 2%;
+	text-align: center;
+	color: white;
+}
+
+/*
+.newVideo{
+	float: left;
+	position: relative;
+	z-index: 1;
+	width: 100%;
+	height: 82%;
+}
+
+.newVideo video{
+	width: 100%;
+	height: 100%;
+}
+*/
+

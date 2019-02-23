@@ -1,0 +1,26 @@
+ @font-face{
+	font-family: base;
+	src: url( ../Fonts/BaseFont.ttf);
+}
+
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+	color: #9E9E9e;
+	width: 100vw;
+	height: 100vh;
+	font-size: 30px;
+	letter-spacing: 0.15em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+#blackScreen{
+	position:absolute;
+	width: 100vw;
+	height: 100vh;
+	background-color: black;
+	z-index: 2;
+	opacity: 0.7;
+}
