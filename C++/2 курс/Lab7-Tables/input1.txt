@@ -1,6 +1,0 @@
-                OS  AISD  DB  EngLang  DevTools
-Vasiliev I.I.   5    5    5      5        5
-Strokin P.P.    5    5    5      4        3
-Vorsikov A.A.   4    3    5      3        5
-Levin D.D.      2    5    3      3        3
-Akruchev V.D.   4    3    5      5        3
